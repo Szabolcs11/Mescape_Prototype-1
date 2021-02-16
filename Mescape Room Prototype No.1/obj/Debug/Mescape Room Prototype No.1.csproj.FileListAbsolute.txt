@@ -1,0 +1,10 @@
+C:\Users\Szabolcs\source\repos\Mescape Room Prototype No.1\Mescape Room Prototype No.1\bin\Debug\Mescape Room Prototype No.1.exe.config
+C:\Users\Szabolcs\source\repos\Mescape Room Prototype No.1\Mescape Room Prototype No.1\bin\Debug\Mescape Room Prototype No.1.exe
+C:\Users\Szabolcs\source\repos\Mescape Room Prototype No.1\Mescape Room Prototype No.1\bin\Debug\Mescape Room Prototype No.1.pdb
+C:\Users\Szabolcs\source\repos\Mescape Room Prototype No.1\Mescape Room Prototype No.1\obj\Debug\Mescape Room Prototype No.1.csprojAssemblyReference.cache
+C:\Users\Szabolcs\source\repos\Mescape Room Prototype No.1\Mescape Room Prototype No.1\obj\Debug\Mescape_Room_Prototype_No._1.Properties.Resources.resources
+C:\Users\Szabolcs\source\repos\Mescape Room Prototype No.1\Mescape Room Prototype No.1\obj\Debug\Mescape Room Prototype No.1.csproj.GenerateResource.cache
+C:\Users\Szabolcs\source\repos\Mescape Room Prototype No.1\Mescape Room Prototype No.1\obj\Debug\Mescape Room Prototype No.1.csproj.CoreCompileInputs.cache
+C:\Users\Szabolcs\source\repos\Mescape Room Prototype No.1\Mescape Room Prototype No.1\obj\Debug\Mescape Room Prototype No.1.exe
+C:\Users\Szabolcs\source\repos\Mescape Room Prototype No.1\Mescape Room Prototype No.1\obj\Debug\Mescape Room Prototype No.1.pdb
+C:\Users\Szabolcs\source\repos\Mescape Room Prototype No.1\Mescape Room Prototype No.1\obj\Debug\Mescape_Room_Prototype_No._1.Menu.resources
