@@ -35,5 +35,10 @@ namespace Mescape_Room_Prototype_No._1
         {
 
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

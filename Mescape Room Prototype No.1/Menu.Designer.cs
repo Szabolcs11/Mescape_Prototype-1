@@ -54,10 +54,11 @@
             this.label1.Font = new System.Drawing.Font("Stencil", 25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(706, 370);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(430, 240);
+            this.label1.Size = new System.Drawing.Size(616, 240);
             this.label1.TabIndex = 1;
             this.label1.Text = "Hosszú SÖVEG STORY IZÉ\r\nHosszú SÖVEG STORY IZÉ\r\nHosszú SÖVEG STORY IZÉ\r\nHosszú SÖ" +
-    "VEG STORY IZÉ\r\nHosszú SÖVEG STORY IZÉ\r\nHosszú SÖVEG STORY IZÉ";
+    "VEG STORY IZÉ\r\nHosszú SÖVEG STORY IZÉ\r\nHosszú SÖVASDASDASDEG STORY IZÉ";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // button1
             // 
